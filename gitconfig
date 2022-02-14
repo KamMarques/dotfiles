@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = marquescamille@gmail.com
+	name = Camille Marques
